@@ -21,7 +21,7 @@ fi
 
 # The thrift version to the version to build.  Must be at thrift-$THRIFT_VERSION
 thrift_version=${2}
-: ${thrift_version:="0.2.0"} # default to 0.2.0
+: ${thrift_version:="0.8.0"} # default to 0.8.0
 
 # The repository root.
 repo_root="$(readlink -f $(dirname $0))"
