@@ -18,20 +18,20 @@ Changes:
    * Adding libfb303-java and python-fb303 to deb control list.
    * Compiling against thrift-0.8.0
 Checksums-Sha1: 
- 816c5831e1fbffa48544b9250fca3b2adabca1e5 612 thrift-fb303_0.8.0.dsc
- 4504f3eb92c69c036c13bdff0356bce6ef81bd31 120182 thrift-fb303_0.8.0.tar.gz
- 90bf88a018141eb64d057bb403ff00cbef55e27a 102702 thrift-fb303_0.8.0_amd64.deb
- 738cad9057ecdb34a4ddd905b675410e4013a44c 242678 libfb303-java_0.8.0_amd64.deb
- f25cf9eebbc06b10f93633784d10b11369adb3f4 9052 python-fb303_0.8.0_amd64.deb
+ fbd983142e1e2fd59f8761e3bdf22e505b3a33ad 714 thrift-fb303_0.8.0.dsc
+ 55c286f5ebc9c248ce3a5782356a3d90937a5849 52519 thrift-fb303_0.8.0.tar.gz
+ 5206b5f14c1926b639eeeaedaa4481bc18f8f196 100826 thrift-fb303_0.8.0_amd64.deb
+ beb8177d43941306ea822e4f8e0432688866f086 242608 libfb303-java_0.8.0_amd64.deb
+ 56e50a1c2f41c47a737d1121acc7793a6cb61d4b 9234 python-fb303_0.8.0_amd64.deb
 Checksums-Sha256: 
- 0139875b7f7c197315bc1db419f97a1d8555571834810c64b84ebc45abe09deb 612 thrift-fb303_0.8.0.dsc
- 58e288d0f2db2421988b3e61f437584cd08c64cd268f77d08fe04dc1558e1129 120182 thrift-fb303_0.8.0.tar.gz
- c6c00d4860864e1a59d5cd1068d9a08deecc5cbb086ceae196bb2931e9d4e7bb 102702 thrift-fb303_0.8.0_amd64.deb
- 1a35478d8cad6acc3b1426babc77bbab828d134369f6ac6be2d2ae0dbc98cac6 242678 libfb303-java_0.8.0_amd64.deb
- 1e0ebd14110bc3070fea228437788f5bcb310a0e24b4090f71f0799997349ba6 9052 python-fb303_0.8.0_amd64.deb
+ 8912182cf1decf4bcdd79f6fd1664d59449726dc0eea8338ef73ab793e723d0a 714 thrift-fb303_0.8.0.dsc
+ 5f806ed6e16115b1684bc23159a586bb80863a9a4392e9f35bb9caf1304e5eb7 52519 thrift-fb303_0.8.0.tar.gz
+ 3d02035086cf40ced01155d97343e7eb29b842938d941698c2591c90848c4655 100826 thrift-fb303_0.8.0_amd64.deb
+ ffb4e6f2a35ee9a3c23957af2a372c71bc715cb17a0b26df6016a5422c7e6ca9 242608 libfb303-java_0.8.0_amd64.deb
+ c8423b4550937b63421bcbac1e11b2abc79a7faa8d61cf4bbdfc6e6908cad119 9234 python-fb303_0.8.0_amd64.deb
 Files: 
- 95abda8de14d6485f39ac4e405be78a7 612 misc extra thrift-fb303_0.8.0.dsc
- 95136ccec6bd76dbc7a799b672ed0bd3 120182 misc extra thrift-fb303_0.8.0.tar.gz
- 17aa4e157e0a925381ec5851f5288900 102702 misc extra thrift-fb303_0.8.0_amd64.deb
- f1703ed6f5f4a2ba732ff7111ff2cfb4 242678 java extra libfb303-java_0.8.0_amd64.deb
- 3cf513f3d0c799847f38d3f54b34dbf0 9052 python extra python-fb303_0.8.0_amd64.deb
+ 0e90e54cd6f2bda699bf137c1ddc1670 714 misc extra thrift-fb303_0.8.0.dsc
+ f7bf2d5d9495d88a0a608b49d9c43742 52519 misc extra thrift-fb303_0.8.0.tar.gz
+ 018cb0bba029b42280fe9aac34e2c20f 100826 misc extra thrift-fb303_0.8.0_amd64.deb
+ b3f1c9c55084aae6904c0f797fed1faf 242608 java extra libfb303-java_0.8.0_amd64.deb
+ 916a525b5dc061ec14500110d2e24f92 9234 python extra python-fb303_0.8.0_amd64.deb
